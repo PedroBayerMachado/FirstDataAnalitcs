@@ -1,0 +1,15 @@
+jupyterlab
+notebook
+plotly
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+statsmodels
+ipywidgets
+openpyxl
+xlrd
+pillow
+requests
